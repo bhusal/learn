@@ -2,3 +2,6 @@ Its fun learning new stuffs
 
 Line 3
 Line 4
+
+
+Make sure that you make sudo user and to update core code.
